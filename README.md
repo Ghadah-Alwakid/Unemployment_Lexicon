@@ -1,0 +1,3 @@
+# Unemployment_Lexicon
+
+This Lexicon is collected  ........ and licsenced under .......
