@@ -1,3 +1,6 @@
 # Unemployment_Lexicon
 
-This Lexicon is collected  ........ and licsenced under .......
+This sentiment lexicon for Negative and Positive sentiments was collected to analyse the idiosyncratic elements in online posts. Eight native speakers worked on linking each word to synonym sets, considering all the six Saudi Arabian different dialects such as Hejazi (west region), Najdi (middle region), Shamali (north region), Janubi (south region) and Sharqawi (east region)
+
+
+
